@@ -6,7 +6,7 @@
 //  Copyright © 2018年 com.wk. All rights reserved.
 //
 
-//用协议来写是为了能够方便扩展不同的数据模型
+//用协议来写是为了能够方便扩展不同的数据model
 #import <Foundation/Foundation.h>
 
 @protocol WKDanmuModelProtocol <NSObject>
